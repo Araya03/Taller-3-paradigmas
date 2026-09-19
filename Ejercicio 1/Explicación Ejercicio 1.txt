@@ -1,0 +1,7 @@
+Se guarda el valor 10 en el registro s1.
+Se guarda el valor 7 en el registro s2.
+Se guarda el valor 3 en el registro s3.
+Toma los valores de s1 y s2, los suma y guarda el resultado en el registro t0.
+Toma el valor de s3 y utiliza una instrucción de desplazamiento a la izquierda (slli), lo que equivale matemáticamente a multiplicar por 2. Se guarda el resultado en el registro t1.
+Toma el resultado de la suma (t0) y le resta el resultado de la multiplicación (t1).
+El resultado se almacena en el registro t2.
