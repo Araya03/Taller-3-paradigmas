@@ -1,3 +1,3 @@
-Para verificar el resultado obtenido en el registro t3 (o en la variable "result" en memoria), aplicamos la fórmula de la suma de Gauss: [N*(N+1)]/2
-Si sustituimos N por el valor asignado (N = 10) obtenemos lo siguiente: [10*(10+1)]/2 = 55
-Al ejecutar el código paso a paso, se puede ver que el registro t3 (así como la posición de memoria "result") contienen el valor 55 (00000037 en hexadecimal), validando que la simulación es correcta.
+Para verificar el resultado obtenido en el registro t1 (almacenado en los segundos 4 bytes de memoria), aplicamos la fórmula de la suma de Gauss: [N*(N+1)]/2
+Si sustituimos N por el valor asignado (N = 5) obtenemos lo siguiente: [5*(5+1)]/2 = 15
+Al ejecutar el código paso a paso, se puede ver que el registro t1 contiene el valor 15 (0000000f en hexadecimal), validando que la simulación es correcta.
